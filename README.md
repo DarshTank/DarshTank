@@ -1,91 +1,63 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,100:161b22&height=180&section=header&text=darshtank.in&fontSize=42&fontColor=39d353&fontAlignY=45&desc=full-stack%20%2B%20cloud%20systems%20developer&descAlignY=65&descSize=16&descColor=8b949e&animation=fadeIn" width="100%"/>
-
-<br>
-
-```bash
-$ whoami
-```
-
-```ini
-name        = "Darsh Tank"
-role        = "Full-Stack & Cloud Systems Developer"
-status      = "4th year, Computer Science @ Nirma University"
-domain      = "darshtank.in"
-focus       = ["distributed systems", "cloud infra", "developer tools"]
-philosophy  = "ship it, then make it not break"
-```
-
-<br>
-
-```bash
-$ terraform plan
-```
-
-> Provisioning 3 resources. No resources destroyed.
-
-```hcl
-resource "project" "veil" {
-  alias        = "Veil"
-  description  = "Anonymous messaging platform - auth, per-user inboxes, and email delivery on top of a clean Next.js frontend."
-  stack        = ["Next.js", "TypeScript", "MongoDB", "Resend API"]
-
-  source       = "https://github.com/DarshTank/Veil-Message"
-  live         = ""   # <- add live link
-}
-
-resource "project" "writeverse" {
-  alias        = "WriteVerse"
-  description  = "A Django blogging platform - content management, templating, and deployment handled end to end."
-  stack        = ["Django", "Python", "SQLite"]
-
-  source       = "https://github.com/DarshTank/django-blog"
-  live         = ""   # <- add live link
-}
-
-resource "project" "draftai" {
-  alias        = "DraftAI"
-  description  = "AI-assisted email writer shipped as a browser extension, backed by a Spring Boot service and React UI."
-  stack        = ["Spring Boot", "React", "Chrome Extension"]
-
-  source       = "https://github.com/DarshTank/draft-ai"
-  live         = ""   # <- add live link
-}
-```
-
-```bash
-Apply complete! Resources: 3 added, 0 changed, 0 destroyed.
-```
-
-<br>
-
-```bash
-$ cat ~/.stack
-```
-
-```yaml
-languages:      [Python, TypeScript, JavaScript]
-frontend:       [React, Next.js, TanStack Start, Tailwind CSS, Alpine.js]
-backend:        [Node.js, Django, Spring Boot, Frappe/ERPNext]
-cloud:          [GCP, AWS, DigitalOcean, CloudStack, Virtuozzo]
-databases:      [MongoDB, PostgreSQL, SQLite]
-```
-
-<br>
-
-```bash
-$ curl -I darshtank.in
-```
-
-```
-HTTP/1.1 200 OK
-status: online
-domain: darshtank.in
-```
-
 <div align="center">
+
+<br>
+
+# DARSH TANK
+
+<sub>FULL-STACK & CLOUD SYSTEMS DEVELOPER</sub>
+
+<br>
 
 **[darshtank.in](https://darshtank.in)**
 
+<br>
+<br>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+I build systems that move — anonymous messages, deployed content, drafted words — with a bias toward clean architecture and interfaces that get out of the way. Fourth-year Computer Science, Nirma University.
+
+<br>
+
+## Selected Work
+
+<br>
+
+**Veil**
+Anonymous messaging platform with per-user inboxes and email delivery, built on a minimal, distraction-free interface.
+`Next.js` · `TypeScript` · `MongoDB` · `Resend`
+[Source](https://github.com/DarshTank/Veil-Message) — Live *(add link)*
+
+<br>
+
+**WriteVerse**
+A blogging platform built on Django, covering content management, templating, and end-to-end deployment.
+`Django` · `Python` · `SQLite`
+[Source](https://github.com/DarshTank/django-blog) — Live *(add link)*
+
+<br>
+
+**DraftAI**
+An AI-assisted email writer shipped as a browser extension, backed by a Spring Boot service and a React interface.
+`Spring Boot` · `React` · `Chrome Extension`
+[Source](https://github.com/DarshTank/draft-ai) — Live *(add link)*
+
+<br>
+
+## Stack
+
+<br>
+
+**Languages** Python · TypeScript · JavaScript
+**Frontend** React · Next.js · TanStack Start · Tailwind CSS
+**Backend** Node.js · Django · Spring Boot · Frappe
+**Cloud** GCP · AWS · DigitalOcean · CloudStack · Virtuozzo
+
+<br>
+<br>
+
+<div align="center">
+
+<sub>[darshtank.in](https://darshtank.in)</sub>
+
+</div>
