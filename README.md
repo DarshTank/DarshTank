@@ -1,18 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=44&duration=2600&pause=900&center=true&vCenter=true&width=650&height=70&color=D4AF37&lines=DARSH+TANK" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=17&duration=2600&pause=900&center=true&vCenter=true&width=650&height=30&color=8A8A8A&lines=Full-Stack+%26+Cloud+Systems+Developer" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:1C1C1C&height=3&width=200" />
-
-<br>
-<br>
-
-<a href="https://darshtank.in"><img src="https://img.shields.io/badge/darshtank.in-1C1C1C?style=for-the-badge&logoColor=D4AF37&labelColor=1C1C1C" /></a>
-
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAxMjAwIDMyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMEIwRDEyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzE0MTcxRCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZmFkZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMTQxNzFEIiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIzNSUiIHN0b3AtY29sb3I9IiMxNDE3MUQiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjMyMCIgZmlsbD0idXJsKCNiZykiLz4KCiAgPGc+CiAgICA8bGluZSB4MT0iOTQzLjciIHkxPSIzNi41IiB4Mj0iOTgyLjciIHkyPSI0MS45IiBzdHJva2U9IiNDOTg2M0IiIHN0cm9rZS13aWR0aD0iMC42IiBvcGFjaXR5PSIwLjA2Ii8+CjxsaW5lIHgxPSI5NDMuNyIgeTE9IjM2LjUiIHgyPSI5NDEuNCIgeTI9IjEyNC45IiBzdHJva2U9IiNDOTg2M0IiIHN0cm9rZS13aWR0aD0iMC42IiBvcGFjaXR5PSIwLjEyIi8+CjxsaW5lIHgxPSIxMDAxLjkiIHkxPSIyMDUuOSIgeDI9IjEwNjguNSIgeTI9IjE4Ny4wIiBzdHJva2U9IiNDOTg2M0IiIHN0cm9rZS13aWR0aD0iMC42IiBvcGFjaXR5PSIwLjEwIi8+CjxsaW5lIHgxPSIxMDAxLjkiIHkxPSIyMDUuOSIgeDI9IjExMDguNyIgeTI9IjE0OS4zIiBzdHJva2U9IiNDOTg2M0IiIHN0cm9rZS13aWR0aD0iMC42IiBvcGFjaXR5PSIwLjEzIi8+CjxsaW5lIHgxPSI4MTMuMiIgeTE9IjM3LjciIHgyPSI3OTkuNiIgeTI9Ijg3LjAiIHN0cm9rZT0iI0M5ODYzQiIgc3Ryb2tlLXdpZHRoPSIwLjYiIG9wYWNpdHk9IjAuMTIiLz4KPGxpbmUgeDE9IjU3NS45IiB5MT0iODEuNyIgeDI9IjYwNy45IiB5Mj0iOTAuNSIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4xMCIvPgo8bGluZSB4MT0iNjkyLjMiIHkxPSIxODMuMiIgeDI9Ijc0OS4zIiB5Mj0iOTkuNiIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4xMSIvPgo8bGluZSB4MT0iMTA0My41IiB5MT0iMjExLjUiIHgyPSIxMDY4LjUiIHkyPSIxODcuMCIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4xNSIvPgo8bGluZSB4MT0iMTA0My41IiB5MT0iMjExLjUiIHgyPSIxMTUzLjciIHkyPSIxOTYuNCIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4xMiIvPgo8bGluZSB4MT0iMTA0My41IiB5MT0iMjExLjUiIHgyPSIxMDg1LjgiIHkyPSIxMTEuOCIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4xNCIvPgo8bGluZSB4MT0iMTEzNC4zIiB5MT0iMTE3LjUiIHgyPSIxMTUzLjciIHkyPSIxOTYuNCIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4wOSIvPgo8bGluZSB4MT0iMTEzNC4zIiB5MT0iMTE3LjUiIHgyPSIxMDg1LjgiIHkyPSIxMTEuOCIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4xNSIvPgo8bGluZSB4MT0iMTA2OC41IiB5MT0iMTg3LjAiIHgyPSIxMTUzLjciIHkyPSIxOTYuNCIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4wNyIvPgo8bGluZSB4MT0iMTA2OC41IiB5MT0iMTg3LjAiIHgyPSIxMTA4LjciIHkyPSIxNDkuMyIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4xMSIvPgo8bGluZSB4MT0iMTA1Ny42IiB5MT0iMTkwLjgiIHgyPSIxMTUzLjciIHkyPSIxOTYuNCIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4xNCIvPgo8bGluZSB4MT0iMTA1Ny42IiB5MT0iMTkwLjgiIHgyPSIxMDg1LjgiIHkyPSIxMTEuOCIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4xMSIvPgo8bGluZSB4MT0iOTgyLjciIHkxPSI0MS45IiB4Mj0iOTQxLjQiIHkyPSIxMjQuOSIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4xNSIvPgo8bGluZSB4MT0iOTgyLjciIHkxPSI0MS45IiB4Mj0iODk2LjgiIHkyPSI5OC4zIiBzdHJva2U9IiNDOTg2M0IiIHN0cm9rZS13aWR0aD0iMC42IiBvcGFjaXR5PSIwLjExIi8+CjxsaW5lIHgxPSI3MjAuMiIgeTE9IjI3My41IiB4Mj0iNjYyLjciIHkyPSIyMTkuNiIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4wOSIvPgo8bGluZSB4MT0iMTA2NS43IiB5MT0iMjMxLjgiIHgyPSIxMTA4LjciIHkyPSIxNDkuMyIgc3Ryb2tlPSIjQzk4NjNCIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4wOCIvPgo8bGluZSB4MT0iNzQ5LjMiIHkxPSI5OS42IiB4Mj0iNzk5LjYiIHkyPSI4Ny4wIiBzdHJva2U9IiNDOTg2M0IiIHN0cm9rZS13aWR0aD0iMC42IiBvcGFjaXR5PSIwLjEyIi8+CjxsaW5lIHgxPSIxMDg1LjgiIHkxPSIxMTEuOCIgeDI9IjExMDguNyIgeTI9IjE0OS4zIiBzdHJva2U9IiNDOTg2M0IiIHN0cm9rZS13aWR0aD0iMC42IiBvcGFjaXR5PSIwLjA4Ii8+CjxsaW5lIHgxPSI4OTYuOCIgeTE9Ijk4LjMiIHgyPSI3OTkuNiIgeTI9Ijg3LjAiIHN0cm9rZT0iI0M5ODYzQiIgc3Ryb2tlLXdpZHRoPSIwLjYiIG9wYWNpdHk9IjAuMTIiLz4KICAgIDxjaXJjbGUgY3g9Ijk0My43IiBjeT0iMzYuNSIgcj0iMS45IiBmaWxsPSIjQzk4NjNCIiBvcGFjaXR5PSIwLjIyIi8+CjxjaXJjbGUgY3g9IjEwMDEuOSIgY3k9IjIwNS45IiByPSIzLjAiIGZpbGw9IiNDOTg2M0IiIG9wYWNpdHk9IjAuMTgiLz4KPGNpcmNsZSBjeD0iODEzLjIiIGN5PSIzNy43IiByPSIxLjgiIGZpbGw9IiNDOTg2M0IiIG9wYWNpdHk9IjAuMzAiLz4KPGNpcmNsZSBjeD0iNTc1LjkiIGN5PSI4MS43IiByPSIyLjYiIGZpbGw9IiNDOTg2M0IiIG9wYWNpdHk9IjAuMzEiLz4KPGNpcmNsZSBjeD0iNjkyLjMiIGN5PSIxODMuMiIgcj0iMi45IiBmaWxsPSIjQzk4NjNCIiBvcGFjaXR5PSIwLjE1Ii8+CjxjaXJjbGUgY3g9IjEwNDMuNSIgY3k9IjIxMS41IiByPSIyLjAiIGZpbGw9IiNDOTg2M0IiIG9wYWNpdHk9IjAuMjAiLz4KPGNpcmNsZSBjeD0iMTEzNC4zIiBjeT0iMTE3LjUiIHI9IjEuNiIgZmlsbD0iI0M5ODYzQiIgb3BhY2l0eT0iMC4xOCIvPgo8Y2lyY2xlIGN4PSIxMDY4LjUiIGN5PSIxODcuMCIgcj0iMi45IiBmaWxsPSIjQzk4NjNCIiBvcGFjaXR5PSIwLjM3Ii8+CjxjaXJjbGUgY3g9Ijg4MS43IiBjeT0iMjgzLjAiIHI9IjIuMSIgZmlsbD0iI0M5ODYzQiIgb3BhY2l0eT0iMC4zMiIvPgo8Y2lyY2xlIGN4PSIxMDU3LjYiIGN5PSIxOTAuOCIgcj0iMy4wIiBmaWxsPSIjQzk4NjNCIiBvcGFjaXR5PSIwLjMyIi8+CjxjaXJjbGUgY3g9Ijk4Mi43IiBjeT0iNDEuOSIgcj0iMS44IiBmaWxsPSIjQzk4NjNCIiBvcGFjaXR5PSIwLjI0Ii8+CjxjaXJjbGUgY3g9IjYwNy45IiBjeT0iOTAuNSIgcj0iMS42IiBmaWxsPSIjQzk4NjNCIiBvcGFjaXR5PSIwLjIzIi8+CjxjaXJjbGUgY3g9Ijk0MS40IiBjeT0iMTI0LjkiIHI9IjIuMSIgZmlsbD0iI0M5ODYzQiIgb3BhY2l0eT0iMC4yMSIvPgo8Y2lyY2xlIGN4PSI3MjAuMiIgY3k9IjI3My41IiByPSIyLjYiIGZpbGw9IiNDOTg2M0IiIG9wYWNpdHk9IjAuMzMiLz4KPGNpcmNsZSBjeD0iNjYyLjciIGN5PSIyMTkuNiIgcj0iMS43IiBmaWxsPSIjQzk4NjNCIiBvcGFjaXR5PSIwLjI2Ii8+CjxjaXJjbGUgY3g9IjExNTMuNyIgY3k9IjE5Ni40IiByPSIyLjQiIGZpbGw9IiNDOTg2M0IiIG9wYWNpdHk9IjAuMzYiLz4KPGNpcmNsZSBjeD0iMTA2NS43IiBjeT0iMjMxLjgiIHI9IjEuOCIgZmlsbD0iI0M5ODYzQiIgb3BhY2l0eT0iMC4xNiIvPgo8Y2lyY2xlIGN4PSI3NDkuMyIgY3k9Ijk5LjYiIHI9IjEuOCIgZmlsbD0iI0M5ODYzQiIgb3BhY2l0eT0iMC40MyIvPgo8Y2lyY2xlIGN4PSIxMDg1LjgiIGN5PSIxMTEuOCIgcj0iMi42IiBmaWxsPSIjQzk4NjNCIiBvcGFjaXR5PSIwLjI3Ii8+CjxjaXJjbGUgY3g9IjExMDguNyIgY3k9IjE0OS4zIiByPSIxLjkiIGZpbGw9IiNDOTg2M0IiIG9wYWNpdHk9IjAuMjIiLz4KPGNpcmNsZSBjeD0iODk2LjgiIGN5PSI5OC4zIiByPSIyLjUiIGZpbGw9IiNDOTg2M0IiIG9wYWNpdHk9IjAuNDIiLz4KPGNpcmNsZSBjeD0iNzk5LjYiIGN5PSI4Ny4wIiByPSIzLjIiIGZpbGw9IiNDOTg2M0IiIG9wYWNpdHk9IjAuMzAiLz4KICA8L2c+CgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjMyMCIgZmlsbD0idXJsKCNmYWRlKSIvPgoKICA8dGV4dCB4PSI2MCIgeT0iMTQwIiBmb250LWZhbWlseT0iJ0hlbHZldGljYSBOZXVlJywgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNjQiIGZvbnQtd2VpZ2h0PSI3MDAiIGxldHRlci1zcGFjaW5nPSI0IiBmaWxsPSIjRjJGMkYyIj5EQVJTSCBUQU5LPC90ZXh0PgogIDx0ZXh0IHg9IjYxIiB5PSIxODIiIGZvbnQtZmFtaWx5PSInSGVsdmV0aWNhIE5ldWUnLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOSIgZm9udC13ZWlnaHQ9IjQwMCIgbGV0dGVyLXNwYWNpbmc9IjEuNSIgZmlsbD0iIzlDQTNBRiI+RlVMTC1TVEFDSyAmYW1wOyBDTE9VRCBTWVNURU1TIERFVkVMT1BFUjwvdGV4dD4KCiAgPHJlY3QgeD0iNjEiIHk9IjIwNCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjMiIGZpbGw9IiNDOTg2M0IiLz4KCiAgPHRleHQgeD0iNjEiIHk9IjI1NiIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNCIgbGV0dGVyLXNwYWNpbmc9IjEiIGZpbGw9IiNDOTg2M0IiIG9wYWNpdHk9IjAuOSI+ZGFyc2h0YW5rLmluPC90ZXh0Pgo8L3N2Zz4=" width="100%" alt="Darsh Tank" />
 </div>
 
 <br>
@@ -23,79 +10,60 @@
 
 <br>
 
-<div align="center">
-
-### S E L E C T E D &nbsp;&nbsp; W O R K
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:1C1C1C&height=2&width=140" />
-
-</div>
+<div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQwIiBoZWlnaHQ9IjQiIHZpZXdCb3g9IjAgMCA2NDAgNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjQzk4NjNCIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNDOTg2M0IiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI0M5ODYzQiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iNjQwIiBoZWlnaHQ9IjQiIGZpbGw9InVybCgjZCkiLz4KPC9zdmc+Cg==" width="320" /></div>
 
 <br>
 
-**Veil**
-<br>
-<sub>Anonymous messaging platform with per-user inboxes and email delivery, built on a minimal, distraction-free interface.</sub>
-
-<img src="https://img.shields.io/badge/Next.js-1C1C1C?style=flat-square&logo=nextdotjs&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/TypeScript-1C1C1C?style=flat-square&logo=typescript&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/MongoDB-1C1C1C?style=flat-square&logo=mongodb&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/Resend-1C1C1C?style=flat-square&logoColor=D4AF37" />
-
-[![Source](https://img.shields.io/badge/Source-1C1C1C?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/DarshTank/Veil-Message) [![Live](https://img.shields.io/badge/Live-D4AF37?style=for-the-badge&logoColor=1C1C1C)](#)
+## Selected Work
 
 <br>
 
-**WriteVerse**
+> ### Veil
+> Anonymous messaging platform with per-user inboxes and email delivery, built on a minimal, distraction-free interface.
+>
+> `Next.js`&nbsp;&nbsp;`TypeScript`&nbsp;&nbsp;`MongoDB`&nbsp;&nbsp;`Resend`
+>
+> [Source](https://github.com/DarshTank/Veil-Message) · Live *(add link)*
+
 <br>
-<sub>A blogging platform built on Django, covering content management, templating, and end-to-end deployment.</sub>
 
-<img src="https://img.shields.io/badge/Django-1C1C1C?style=flat-square&logo=django&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/SQLite-1C1C1C?style=flat-square&logo=sqlite&logoColor=D4AF37" />
-
-[![Source](https://img.shields.io/badge/Source-1C1C1C?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/DarshTank/django-blog) [![Live](https://img.shields.io/badge/Live-D4AF37?style=for-the-badge&logoColor=1C1C1C)](#)
+> ### WriteVerse
+> A blogging platform built on Django, covering content management, templating, and end-to-end deployment.
+>
+> `Django`&nbsp;&nbsp;`Python`&nbsp;&nbsp;`SQLite`
+>
+> [Source](https://github.com/DarshTank/django-blog) · Live *(add link)*
 
 <br>
 
-**DraftAI**
-<br>
-<sub>An AI-assisted email writer shipped as a browser extension, backed by a Spring Boot service and a React interface.</sub>
-
-<img src="https://img.shields.io/badge/Spring_Boot-1C1C1C?style=flat-square&logo=springboot&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/Chrome_Extension-1C1C1C?style=flat-square&logo=googlechrome&logoColor=D4AF37" />
-
-[![Source](https://img.shields.io/badge/Source-1C1C1C?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/DarshTank/draft-ai) [![Live](https://img.shields.io/badge/Live-D4AF37?style=for-the-badge&logoColor=1C1C1C)](#)
+> ### DraftAI
+> An AI-assisted email writer shipped as a browser extension, backed by a Spring Boot service and a React interface.
+>
+> `Spring Boot`&nbsp;&nbsp;`React`&nbsp;&nbsp;`Chrome Extension`
+>
+> [Source](https://github.com/DarshTank/draft-ai) · Live *(add link)*
 
 <br>
 <br>
 
-<div align="center">
-
-### S T A C K
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:1C1C1C&height=2&width=140" />
-
-</div>
+<div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQwIiBoZWlnaHQ9IjQiIHZpZXdCb3g9IjAgMCA2NDAgNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjQzk4NjNCIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNDOTg2M0IiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI0M5ODYzQiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iNjQwIiBoZWlnaHQ9IjQiIGZpbGw9InVybCgjZCkiLz4KPC9zdmc+Cg==" width="320" /></div>
 
 <br>
 
-<div align="center">
+## Stack
 
-<img src="https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/TypeScript-1C1C1C?style=flat-square&logo=typescript&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=D4AF37" />
+<br>
 
-<img src="https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/Next.js-1C1C1C?style=flat-square&logo=nextdotjs&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/Tailwind_CSS-1C1C1C?style=flat-square&logo=tailwindcss&logoColor=D4AF37" />
-
-<img src="https://img.shields.io/badge/Node.js-1C1C1C?style=flat-square&logo=nodedotjs&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/Django-1C1C1C?style=flat-square&logo=django&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/Spring_Boot-1C1C1C?style=flat-square&logo=springboot&logoColor=D4AF37" />
-
-<img src="https://img.shields.io/badge/GCP-1C1C1C?style=flat-square&logo=googlecloud&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/AWS-1C1C1C?style=flat-square&logo=amazonaws&logoColor=D4AF37" /> <img src="https://img.shields.io/badge/DigitalOcean-1C1C1C?style=flat-square&logo=digitalocean&logoColor=D4AF37" />
-
-</div>
+**Languages** — Python, TypeScript, JavaScript
+**Frontend** — React, Next.js, TanStack Start, Tailwind CSS
+**Backend** — Node.js, Django, Spring Boot, Frappe
+**Cloud** — GCP, AWS, DigitalOcean, CloudStack, Virtuozzo
 
 <br>
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:D4AF37&height=3&width=200" />
-
-<br>
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=15&duration=3000&pause=1200&center=true&vCenter=true&width=400&height=25&color=8A8A8A&lines=darshtank.in" />
-
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQwIiBoZWlnaHQ9IjQiIHZpZXdCb3g9IjAgMCA2NDAgNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjQzk4NjNCIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNDOTg2M0IiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI0M5ODYzQiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iNjQwIiBoZWlnaHQ9IjQiIGZpbGw9InVybCgjZCkiLz4KPC9zdmc+Cg==" width="320" />
+<br><br>
+<sub><a href="https://darshtank.in">darshtank.in</a></sub>
 </div>
